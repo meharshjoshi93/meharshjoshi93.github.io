@@ -5,8 +5,8 @@
     <description>Personal website of Harsh Joshi and his rantings on DSP, ML and Chaos</description>
     <link>Joshi-Harsh.github.io/</link>
     <atom:link href="Joshi-Harsh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 16:07:42 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 16:07:42 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 16:58:52 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 16:58:52 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
 &lt;p&gt;Okay so I had my reservations about setting up a blog like this using a technology stack I knew nothing about.
 I was wrong! It took me 1 day to set this up (‘am a noob at this stuff’), plus I am kinda enjoying the whole markdown experience. Now all that’s left to set up (or learn, I haven’t explored it enough to know), is MathJax and code highlighting and then I’ll be on my way to serious blogging.  I’ll update this post later to describe the process for any other noob out there who might want this. Am still setting things up so some links may not work, bear with me till then :)&lt;/p&gt;
 
-&lt;h2 id=&quot;update-1&quot;&gt;Update 1&lt;/h2&gt;
+&lt;h3 id=&quot;update-1&quot;&gt;Update 1&lt;/h3&gt;
 &lt;p&gt;It wasn’t that simple after all. Turns out all those memes on internet about ghostly behaviour of websites are true after all. This monstrosity works fine on my localhost but when I deploy it to Github pages, its goes out of whack at some places. Like the scial media icons. They are suppposed to appear under neath the header (and are apearing just fine on  my localhost), but are invisible! A mozilla inspect element test shows some wierd duplicacy error with the font-awsome css thingy. I’m gonna have to look into it. (oh and I had some issues deploying it but after seperating the source and deployement direcotry the whole thing workded as charm, looks like this &lt;a href=&quot;https://github.com/heiswayi&quot;&gt;Heisway&lt;/a&gt; guy had it figured out all along!)&lt;/p&gt;
 
 &lt;p&gt;I’m just experimenting stuffs, no big deal!&lt;/p&gt;
