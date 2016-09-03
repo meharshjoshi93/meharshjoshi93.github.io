@@ -4,7 +4,7 @@ title: "Harsh Joshi"
 tagline: Living life and its non linear moments.
 email: me.harsh.joshi@gmail.com
 description: "Personal website of Harsh Joshi and his rantings on DSP, ML & Chaos"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "_site" # the subpath of your site, e.g. /blog
 #url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 url: "http://Joshi-Harsh.github.io/"
 
