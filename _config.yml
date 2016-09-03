@@ -1,31 +1,33 @@
-# top level stuff you probably don't need to touch
-highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-gems: [jekyll-paginate]
-port: 3000
-safe: true
-
-
-# edit here to achieve your personal greatness
-url: http://Joshi-Harsh.github.io/
-baseurl: /Joshi-Harsh.github.io/
-title: Harsh Joshi
-author: Harsh Joshi
-description: Personal blog and resume
-avatar: profile.png
+# Site settings
+# =============
+title: "Harsh Joshi"
+tagline: Living life and its non linear moments.
 email: me.harsh.joshi@gmail.com
-github: Joshi-Harsh # username
-twitter: me_harsh_joshi
-linkedin: harshjoshiprofile
-#stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: mrharsh93
-google_analytics: UA-69391421-1
+description: "Personal website of Harsh Joshi and his rantings on DSP, ML & Chaos"
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "http://Joshi-Harsh.github.io/"
 
+author:
+  name: Harsh Joshi
+  email: me.harsh.joshi@gmail.com
+  url: http://Joshi-Harsh.github.io/about.html
 
-# needed for travis-ci build
-exclude: [vendor]
+github:
+  repo: https://github.com/Joshi-Harsh/
+twitter:
+  username: me_harsh_joshi
+
+google_analytics: UA-83656206-1
+
+# Build settings
+# ==============
+#source: ./
+#destination: ../Joshi-Harsh.github.io/
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:   [README.md, LICENSE.md]
+permalink: none
+timezone:  Asia/Calcutta
