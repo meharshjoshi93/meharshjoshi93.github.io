@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harsh Joshi</title>
-    <description>Personal website of Harsh Joshi and his rantings on DSP, ML &amp; Chaos</description>
+    <description>Personal website of Harsh Joshi and his rantings on DSP, ML and Chaos</description>
     <link>http://Joshi-Harsh.github.io/</link>
     <atom:link href="http://Joshi-Harsh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 13:44:20 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 13:44:20 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 13:46:26 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 13:46:26 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
