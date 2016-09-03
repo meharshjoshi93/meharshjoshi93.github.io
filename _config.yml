@@ -24,8 +24,7 @@ google_analytics: UA-83656206-1
 # ==============
 #source: ./
 #destination: ../Joshi-Harsh.github.io/
-source: ./
-destination: ./_site/
+
 
 
 markdown: kramdown
