@@ -5,8 +5,8 @@
     <description>Personal website of Harsh Joshi and his rantings on DSP, ML and Chaos</description>
     <link>Joshi-Harsh.github.io/</link>
     <atom:link href="Joshi-Harsh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Sep 2016 02:28:42 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2016 02:28:42 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2016 03:07:21 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 03:07:21 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -27,7 +27,7 @@ I was wrong! It took me 1 day to set this up (‘am a noob at this stuff’) on 
 &lt;p&gt;It’s alive, finally. I’ll upload repository page and resume later. Time to get back to analysing the data obtained from one of them simulation of pHash(it’s almost done, wait for it). I’ll blog about it later, stay tuned!&lt;/p&gt;
 
 &lt;h3 id=&quot;update-2&quot;&gt;Update 2&lt;/h3&gt;
-&lt;p&gt;Added the fa fa-inbox element, now there is a link to email me via the soicial media icon pannel(I’mma pee all over this site, LOL) . I think I’m getting a hang of it.&lt;/p&gt;
+&lt;p&gt;Added the fa-inbox, fa-google-plus, fa-youtube and removed fa-twitter element, now there is a link to email me, follow me on Google+, and removed twitter (I’ll add it later if I feel like it, franklyy I don’t weet much so don’t know about that), and a link to my Youtube channel where I’ll be uploading the screen casts or other media, all via the social media icon pannel (I’mma pee all over this site, LOL) . I think I’m getting a hang of it.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
