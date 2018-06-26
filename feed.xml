@@ -5,19 +5,49 @@
     <description>Life and it's non-linear moments</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jun 2018 21:51:45 +0530</pubDate>
-    <lastBuildDate>Tue, 26 Jun 2018 21:51:45 +0530</lastBuildDate>
+    <pubDate>Wed, 27 Jun 2018 01:33:22 +0530</pubDate>
+    <lastBuildDate>Wed, 27 Jun 2018 01:33:22 +0530</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>Init</title>
         <description>&lt;p&gt;Hello world.&lt;br /&gt;
-The Blog is live. 10 minutes of fiddling with Jekyll setup and the theme is all it took. Looking forward to blogging stuff.&lt;/p&gt;
+The tech blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Jun 2018 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/2018/init/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/init/</guid>
         
+        
+        <category>tech</category>
+        
+      </item>
+    
+      <item>
+        <title>Note</title>
+        <description>&lt;p&gt;First Note.&lt;br /&gt;
+The music blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018/note/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/note/</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>Genesis</title>
+        <description>&lt;p&gt;First words.&lt;br /&gt;
+The personal blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jun 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018/genesis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/genesis/</guid>
+        
+        
+        <category>life</category>
         
       </item>
     
