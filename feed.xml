@@ -5,9 +5,23 @@
     <description>Life and it's non-linear moments</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jun 2018 13:20:08 +0530</pubDate>
-    <lastBuildDate>Wed, 27 Jun 2018 13:20:08 +0530</lastBuildDate>
+    <pubDate>Fri, 29 Jun 2018 11:57:57 +0530</pubDate>
+    <lastBuildDate>Fri, 29 Jun 2018 11:57:57 +0530</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Step</title>
+        <description>&lt;p&gt;First step.&lt;br /&gt;
+The travel blog is live. Turns out, travel needed it’s own section. I guess we will find out how right that was!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jun 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018/step/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/step/</guid>
+        
+        
+        <category>travel</category>
+        
+      </item>
     
       <item>
         <title>Init</title>
