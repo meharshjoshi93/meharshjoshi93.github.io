@@ -5,22 +5,14 @@
     <description>Life and it's non-linear moments</description>
     <link>https://joshi-harsh.github.io/</link>
     <atom:link href="https://joshi-harsh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jul 2018 17:33:44 +0530</pubDate>
-    <lastBuildDate>Thu, 05 Jul 2018 17:33:44 +0530</lastBuildDate>
+    <pubDate>Thu, 05 Jul 2018 17:45:36 +0530</pubDate>
+    <lastBuildDate>Thu, 05 Jul 2018 17:45:36 +0530</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>Evolution of communication</title>
-        <description>&lt;p&gt;Okay, Electronics, Comupters, Internt, Telecommunication, Bloackchain, Artificial Intelligence, Star Wars. I love them all. Seriously, I do. We humans are visual beings. We think visually, we communicate visually, we do a whole bunch of things visually. In the non technical world it doesn’t really mean much. I mean, you wanted to talk your grandma, the good folks made a telephone. You wanted to call from anywhere, they gave you cellphones. But the innate desire to communicate visually, was still there. We share and talk in the language of experience where just listening to the voice is not enough, and hence, we got to the point where Internet (which was essentially invented as a giant index page for digital books back at CERN), got mainstream owing to scorny kids in dorm rooms who created “social netowrks”. There, we were talking visually now. Whoopdey-doo, grandma could now see that girl I was dating and could tell me her nose was awefully wide at the base. Why!? &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;But then we did what we’ve always done best. Blow up! Internet was just not enough. The photographs turned to videos and static pages turned to complex algorithm beasts with artificial intelligence, that could observe what I liked, when I liked and what my third cousin likes at 1 AM when he is geotagged in his dormroom. It could learn my behavioural patterns to the point that it started suggesting me where can I buy toilet paper and one-click delivery, right when I am at the can! That was creepy. All the data in the world right now is being ingested by these ginormous monopolies who have these hideous beasts (fine algorithms, whatever), and you’ve got no control over it, even if you wnated to. These automated systems, have hit the critical mass beyond which they are now self sustaining &amp;amp; healing to the effect that no amount of net neutrality campaigns are going change the fact that “they’re selling you”. Every year we generate more data than we can scalably consume and in past couple of years alone we have generated more data than entire humanity generated collectively so far. Organizations are thriving on it, and Internet of things is just a fancy way of saying “More data, more control”. Financial institutions are no different.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;At it’s core, we were trying to find better, scalable ways of communicating. Better at communicating experience, words, data or .. assets. That’s what any of us has ever wanted. In 2007, Satoshi Nakamoto released a white paper highlighting a revolutionary new way of looking at internet in form of this decentralized interntet. A distributed ledger and a protocol for concensus to update it. A new age currency was born out of this proof of work consensus protocol, Bitcoin. Most of the people who talk about it, don’t know what it is and, if you really understand it’s core workings, it fundamentally challenges your ideas of fiat currency and frankly, what gives the currency it’s value? But underneath all those rebellious ideas, lies a fundamental breakthrough in communication, blockchain. That’s what it’s all about. All of a sudden, almost all of the intergalactic communication &amp;amp; asset transfer ideas seem doable (I mean you still gotta work out the quatum entanglement communication system or some fancy quantum communication sattelite network but yeah, whatever). Blockchain offers this new age internet a new dimension. Another dimention to balance disproportionate growth in older one, never hurt any scalability project. Sepcially if you are consider the tiny network of lets say billions .. of devices on the planet. Communicating with each other under no monopoly (trying to control the communication and filter in &amp;amp; out the good bits (good for their business)). A communication system, that can transfer assets &amp;amp; experiences in form of information &amp;amp; retain its ownership. It’s a bold new world out there, and boy, are we just getting started up! But this time, we are young, and smack in the middle of it’s birth. Most of you folks missed the dot com bubble, but are here, in your prime for this &lt;del&gt;revolution&lt;/del&gt; evolution. The transistors, the cloud, the artificail intelligence and the god damn IoT; they’ve all been building upto to this. Blockchain, seems to be the missing peice in the puzzle.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Tell me in the comment section bellow, on a scale of “I agree” to “You couldn’t have said it better”, what are your thoughts on the evolution of communication for humanity?&lt;/p&gt;
-</description>
+        <description>Communications system have evolved drastically. Internet in it's own essence has evolved. This new age internet of assets promises a future of immense poosibilites.</description>
+        <keywords>IOT, Internet, Internet of things, Data, AI, Artificial Intellignece, Blockchain, Cryptocurrency,  Telecommunication, Electronics, Evolution, Future</keywords>
         <pubDate>Thu, 05 Jul 2018 00:00:00 +0530</pubDate>
         <link>https://joshi-harsh.github.io/2018/evolution-of-communication/</link>
         <guid isPermaLink="true">https://joshi-harsh.github.io/2018/evolution-of-communication/</guid>
@@ -32,9 +24,8 @@
     
       <item>
         <title>Step</title>
-        <description>&lt;p&gt;First step.&lt;br /&gt;
-The travel blog is live. Turns out, travel needed it’s own section. I guess we will find out how right that was!&lt;/p&gt;
-</description>
+        <description>The first step...</description>
+        <keywords>dummy content, first step</keywords>
         <pubDate>Fri, 29 Jun 2018 00:00:00 +0530</pubDate>
         <link>https://joshi-harsh.github.io/2018/step/</link>
         <guid isPermaLink="true">https://joshi-harsh.github.io/2018/step/</guid>
@@ -46,9 +37,8 @@ The travel blog is live. Turns out, travel needed it’s own section. I guess we
     
       <item>
         <title>Init</title>
-        <description>&lt;p&gt;Hello world.&lt;br /&gt;
-The tech blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
-</description>
+        <description>Hello world...</description>
+        <keywords>dummy content, hello world</keywords>
         <pubDate>Tue, 26 Jun 2018 00:00:00 +0530</pubDate>
         <link>https://joshi-harsh.github.io/2018/init/</link>
         <guid isPermaLink="true">https://joshi-harsh.github.io/2018/init/</guid>
@@ -60,9 +50,8 @@ The tech blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
     
       <item>
         <title>Note</title>
-        <description>&lt;p&gt;First Note.&lt;br /&gt;
-The music blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
-</description>
+        <description>First Note ...</description>
+        <keywords>dummy content, first note</keywords>
         <pubDate>Tue, 26 Jun 2018 00:00:00 +0530</pubDate>
         <link>https://joshi-harsh.github.io/2018/note/</link>
         <guid isPermaLink="true">https://joshi-harsh.github.io/2018/note/</guid>
@@ -74,9 +63,8 @@ The music blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
     
       <item>
         <title>Genesis</title>
-        <description>&lt;p&gt;First words.&lt;br /&gt;
-The personal blog is live. Setting up multiple blogs was a bit tricky!&lt;/p&gt;
-</description>
+        <description>The first words...</description>
+        <keywords>dummy content, first words</keywords>
         <pubDate>Tue, 26 Jun 2018 00:00:00 +0530</pubDate>
         <link>https://joshi-harsh.github.io/2018/genesis/</link>
         <guid isPermaLink="true">https://joshi-harsh.github.io/2018/genesis/</guid>
